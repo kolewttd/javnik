@@ -20,5 +20,5 @@ int main() {
 	printf("holds with password root.\n\n");
 
 	printf("Requirements: javnik, free software, TCP/IP, GNU/Linux.\n");
-	printf("Definition: The public internet is a set of javniks.\n\n");
+	printf("Definition: The public internet is the set of all javniks.\n\n");
 }
