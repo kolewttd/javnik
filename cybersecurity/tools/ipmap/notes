@@ -1,0 +1,9 @@
+ipmap.py maps IP addresses to countries from an Nginx access.log file, which is
+assumed to be in the same directory as ipmap.py.
+
+It also depends on a database of IP addresses: dbip*.csv. You can copy the
+access.log file from cybersecurity/data/access.log.
+
+Once ipmap.py, dbip*.csv and access.log are in the same directory, run with:
+
+python ipmap.py
